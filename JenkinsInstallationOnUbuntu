@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 ##This script will install Jenkins on Ubuntu server...
 
 #Update software repositories and install Java

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo It is advisable that you do not use the same server for your build and web app deployment.
 echo You will need to add security group and open port 8080 with source set at 0.0.0.0/0.
 echo Do you want to continue with your Tomcat Installation?

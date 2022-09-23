@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo This installation will work with Red Hat instance
 echo Do you want to continue with your Terraform Installation?
 echo Enter 1 for yes and 2 for no.

@@ -1,4 +1,4 @@
-#This script is suitable for installing Docker on an Ubuntu-Jenkins Server
+##This script is suitable for installing Docker on an Ubuntu-Jenkins Server
 
 #Step 1: Update all the software repositories
 sudo apt update

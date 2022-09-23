@@ -1,4 +1,4 @@
-#This script is suitable for installing Docker on Ubuntu
+###This script is suitable for installing Docker on Ubuntu
 
 #Step 1: Update all the software repositories
 sudo apt update

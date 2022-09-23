@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # This installation script for installing Nexus is based on swith cases and it is embedded with "if" commands.
 # The $1 arguments used are "manage", "install" and "launch".
 # manage creates user "nexus", assigns password and completes authentication.

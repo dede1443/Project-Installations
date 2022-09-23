@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo Have you created a RedHat AWS server that has 4gb RAM or more? Enter 1 for yes and 2 for no.
 read response
 if
